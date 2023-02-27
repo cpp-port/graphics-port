@@ -1,0 +1,12 @@
+[submodule "freetype"]
+	path = freetype
+	url = ../freetype
+[submodule "cairo"]
+	path = cairo
+	url = ../cairo
+[submodule "nanosvg"]
+	path = nanosvg
+	url = ../nanosvg
+[submodule "pixman"]
+	path = pixman
+	url = ../pixman
